@@ -7,6 +7,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.service
+.log
+.env
+.txt
+
 # C extensions
 *.so
 
